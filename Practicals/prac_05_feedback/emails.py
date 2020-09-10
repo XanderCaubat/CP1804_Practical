@@ -1,7 +1,7 @@
 """
 CP1404/CP5632 Practical 05
-uggested Solution
 Email to name dictionary
+Xander Dino Caubat
 """
 
 

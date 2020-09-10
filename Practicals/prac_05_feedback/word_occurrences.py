@@ -2,7 +2,7 @@
 CP1404/CP5632 Practical 05
 Suggested Solution
 Count word occurrences in a string
-This example is in the lecture notes 3 different ways
+Xander Dino Caubat
 """
 
 word_count = {}

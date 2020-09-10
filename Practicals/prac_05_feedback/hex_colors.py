@@ -1,7 +1,7 @@
 """
 CP1404/CP5632 Practical 05
-Suggested Solution
 Hexadecimal colour lookup
+Xander Dino Caubat
 """
 HEX_COLOUR_CODE = {"AliceBlue": "#f0f8ff", "AntiqueWhite": "#faebd7", "BlanchedAlmond": "#ffebcd",
                    "BlueViolet": "#8a2be2", "CadetBlue": " #5f9ea0", "DarkGoldenrod": "#b8860b",
